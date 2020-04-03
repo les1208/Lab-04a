@@ -1,0 +1,23 @@
+* {
+	box-sizing: border-box;
+	background-color: lavender;
+}
+
+body {
+	text-align: center;
+	display: inline-block;
+}
+
+html {
+	margin: auto;
+	width: 482px;
+}
+
+@media (min-width:768px) {
+
+	html {
+		margin: auto;
+		width: 962px;
+		border: solid slateblue 2px;
+	}
+}
