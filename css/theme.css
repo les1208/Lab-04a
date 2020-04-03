@@ -1,0 +1,86 @@
+header, p {
+	background-color: green;
+	border: solid 1px;
+}
+
+aside {
+	border: solid 1px;
+	background-color: cadetblue;
+}
+
+div {
+	border: solid 1px;
+}
+
+#c {
+	background-color: turquoise;
+}
+
+#d {
+	background-color: teal;
+}
+
+#e {
+	background-color: darkcyan;
+}
+
+#f {
+	background-color: seagreen;
+}
+
+#g {
+	background-color: steelblue;
+}
+
+#h {
+	background-color: cadetblue;
+}
+
+footer {
+border: solid 1px;	
+background-color:seagreen;
+}
+
+@media (min-width:768px) {
+	header, p {
+		background-color: salmon;
+	}
+aside {
+	background-color: sandybrown;
+}
+
+#c {
+	color: black;
+	background-color: saddlebrown;
+}
+
+#d{
+	color: black;
+	background-color: sienna;
+}
+
+#e {
+	color: black;
+	background-color: goldenrod
+}
+
+#f {
+	color: black;
+	background-color: tomato;
+}
+
+#g {
+	color: black;
+	background-color: lightcoral;
+}
+
+#h {
+	color: black;
+	background-color: darkgoldenrod;
+}
+
+footer {
+	background-color: lightpink;
+}
+
+}
